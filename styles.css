@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+table{
+	background-color:yellowgreen;
+	
+}
+thead{
+	color:white;
+	background-color:red;
+}
